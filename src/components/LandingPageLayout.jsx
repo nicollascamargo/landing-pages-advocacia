@@ -122,7 +122,7 @@ const LandingPageLayout = ({
                 </div>
                 <div className="flex items-center space-x-2">
                   <Clock className="h-5 w-5 text-blue-600" />
-                  <span className="text-gray-700">+10 Anos</span>
+                  <span className="text-gray-700">experiencia</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Shield className="h-5 w-5 text-green-600" />
